@@ -1,2 +1,3 @@
-venvdocker-compose.yml 
+venv
+docker-compose.yml 
 Dockerfile 
