@@ -1,5 +1,5 @@
 from flask_restx import Resource
-from ..app import api
+from src.app import api
 
 
 @api.route('/api')
